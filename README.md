@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### A bit about me
+I am Megh Shetty a Cyber security professionl. Who is working towards improving programming & problem sliving skills. 
+
+I am proud to be Gopher !!
+
 <!--
 **MeghvShetty/MeghvShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

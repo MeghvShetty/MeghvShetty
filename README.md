@@ -4,7 +4,7 @@
 I am Megh Shetty a Cyber security professional. Who is working towards improving my programming & problem-solving skills. 
 
 I am proud to be Gopher !!
-
+![gopher](./Power-up-gopher.gif)
 <!--
 **MeghvShetty/MeghvShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

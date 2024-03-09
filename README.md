@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### A bit about me
-I am Megh Shetty a Cyber security professionl. Who is working towards improving programming & problem sliving skills. 
+#### A bit about me
+I am Megh Shetty a Cyber security professional. Who is working towards improving my programming & problem-solving skills. 
 
 I am proud to be Gopher !!
 

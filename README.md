@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### A bit about me
-I am Megh Shetty a cyber security professional. Who is working towards improving my coding & problem-solving skills using Golang. 
-
-
 I am proud to be Gopher !!
 ![gopher](./Power-up-gopher.gif)
 <!--

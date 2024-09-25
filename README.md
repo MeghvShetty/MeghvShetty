@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am proud to be Gopher in Banaglore, India!!
+I am proud to be Gopher in Bangalore, India!!
 Master in Information Security, Royal Holloway University of London
 
 As a cybersecurity professional, I bring a wealth of experience in helping companies build, deploy, and test products with a security-first mindset. My journey has encompassed diverse sectors, including Robotics, Eduction Institutes, Life Science and Finance, Providing me with a broad perspective on cybersecurity challenges across industries.

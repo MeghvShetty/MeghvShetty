@@ -10,5 +10,6 @@ A dynamic cybersecurity professional, I've empowered companies across Robotics, 
 ![gopher](./Power-up-gopher.gif)
 
 ## Hack The Box 
-[CrownJewel-2](https://labs.hackthebox.com/achievement/sherlock/1477248/750)
-[Reaper](https://labs.hackthebox.com/achievement/sherlock/1477248/749)
+### Sherlock 
+1. [CrownJewel-2](https://labs.hackthebox.com/achievement/sherlock/1477248/750)
+2. [Reaper](https://labs.hackthebox.com/achievement/sherlock/1477248/749)

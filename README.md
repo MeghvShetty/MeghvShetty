@@ -13,3 +13,9 @@ A dynamic cybersecurity professional, I've empowered companies across Robotics, 
 ### Sherlock 
 1. [CrownJewel-2](https://labs.hackthebox.com/achievement/sherlock/1477248/750)
 2. [Reaper](https://labs.hackthebox.com/achievement/sherlock/1477248/749)
+
+## CTF 
+Battle ground for Hacker's 
+| No | CTF name | Team | Ranking | CTF Date |
+|--|--|--|--|--|
+| 1. | [CSO Tech Day 3](Cert/Certificate-MeghVShetty.pdf) | Team 8 | 8th/26 | 03/10/2024 - 05/10/2024|

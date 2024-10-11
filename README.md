@@ -12,6 +12,7 @@ A dynamic cybersecurity professional, I've empowered companies across Robotics, 
 ## Hack The Box 
 ### Machines  
 1. [Green Horn](https://www.hackthebox.com/achievement/machine/1477248/617)
+2. [PermX ](https://www.hackthebox.com/achievement/machine/1477248/613)
 ### Sherlock 
 1. [CrownJewel-2](https://labs.hackthebox.com/achievement/sherlock/1477248/750)
 2. [Reaper](https://labs.hackthebox.com/achievement/sherlock/1477248/749)

@@ -7,7 +7,6 @@ A dynamic cybersecurity professional, I've empowered companies across Robotics, 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on projects. 
 
-![gopher](./Power-up-gopher.gif)
 
 ## Hack The Box 
 ### Machines  

@@ -15,3 +15,9 @@ These are my Go-to programming languages for automation and cybersecurity while 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+## 🎓 Certifications
+[![AWS](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cd730ad6-c1d4-4835-94ba-0986291ca25b/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png)](https://www.credly.com/badges/63a38cfa-f644-4147-a474-ab349c83e9f6/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png)](https://www.credly.com/badges/98a4ee56-c6a0-41d0-b399-cf718f288f55/public_url)
+

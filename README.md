@@ -32,7 +32,7 @@ triage overhead and enforced classification consistency across
 engineering teams.
 
 **Governance & Standards**
-ISO 42001 certified (AI Management Systems). Co-Authored group-wide AI 
+ISO 42001  (AI Management Systems). Co-Authored group-wide AI 
 Security Standard aligned to UK AI Code of Practice, NIST AI RMF, 
 and ISO 27001.
 

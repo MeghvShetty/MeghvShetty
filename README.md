@@ -7,7 +7,7 @@ pipelines and agentic frameworks to embedding security controls into
 engineering SDLCs at scale.
 
 Currently on the Data, ML & AI Security team at a UK systemically 
-important financial institution, where I've co-authored group-wide AI security 
+important financial institution, where I've authored group-wide AI security 
 policy and built security tooling adopted into production.
 
 ---
@@ -58,7 +58,7 @@ and ISO 27001.
 **AppSec** — Semgrep · Checkmarx · Burp Suite · OWASP ZAP  
 **AI/ML** — Griptape · Google ADK · Vertex AI · RAG · pgvector  
 **Cloud & IaC** — AWS · GCP · Docker · Terraform · GitHub Actions  
-**Standards** — ISO 27001 · ISO 42001 · NIST · OWASP · STRIDE · MITRE ATT&CK
+**Standards** — ISO 27001 · ISO 42001(applied) · NIST · OWASP · STRIDE · MITRE ATT&CK
 
 ---
 
@@ -73,7 +73,8 @@ and ISO 27001.
 ## Writing
 
 📝 [meghshetty.medium.com](https://meghshetty.medium.com)  
-HTB walkthroughs and — soon — AI security in regulated environments.
+Latest: I built a red team agent to test Google's Model Armor — 
+[read it here](https://meghshetty.medium.com/i-built-a-red-team-agent-to-test-googles-ai-firewall-here-s-what-model-armor-actually-catches-2ba246898ff8)
 
 ---
 

@@ -38,6 +38,11 @@ and ISO 27001.
 
 ---
 
+## Projects
+🔧 [HERALD](https://github.com/c0d3x-io/herald) — TLS forward proxy for routing API traffic through enterprise egress controls
+
+---
+
 ## Certifications
 
 | Certification | Body | Status |
@@ -64,9 +69,7 @@ and ISO 27001.
 
 ## CTF
 
-| Event | Team | Ranking | Date |
-|---|---|---|---|
-|[CSO Tech Day 3](Cert/Certificate-MeghVShetty.pdf) | Team 8 | 8th / 26 | Oct 2024 |
+🏆 CSO Tech Day 3 — 8th / 26 (Oct 2024) — [certificate](Cert/Certificate-MeghVShetty.pdf)
 
 ---
 
